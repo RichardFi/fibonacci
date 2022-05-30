@@ -3,7 +3,7 @@
 ## Quick Start
 Before starting, install [Git](https://git-scm.com/downloads) and Node.js
 ```sh
-$ git clone https://github.com/RichardFi/code-challenge-yongrui.git
+$ git clone https://github.com/RichardFi/fibonacci.git
 ```
 
 ```sh
